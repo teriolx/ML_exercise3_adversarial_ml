@@ -10,6 +10,7 @@ This project contains experiments in Adversarial ML, particularly Attribute Infe
 ## Structure
 
 * `data/` contains the dataset used in the experiments
+* `results/` contains the measured experiment results per model in `.csv` format
 * `attribute_inference.ipynb` jupyter notebooks with the experiments and functions to perform attribute inference
 
 ## Usage

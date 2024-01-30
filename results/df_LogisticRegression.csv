@@ -1,0 +1,81 @@
+,Attr,Value,Matrix,Train,Multiple Attributes,Model
+0,Air Pollution,0.33,0,1,0,LogisticRegression
+1,Alcohol use,0.26,0,1,0,LogisticRegression
+2,Dust Allergy,0.42,0,1,0,LogisticRegression
+3,OccuPational Hazards,0.35,0,1,0,LogisticRegression
+4,Genetic Risk,0.405,0,1,0,LogisticRegression
+5,chronic Lung Disease,0.35,0,1,0,LogisticRegression
+6,Balanced Diet,0.355,0,1,0,LogisticRegression
+7,Obesity,0.41,0,1,0,LogisticRegression
+8,Smoking,0.195,0,1,0,LogisticRegression
+9,Passive Smoker,0.4,0,1,0,LogisticRegression
+10,Chest Pain,0.32,0,1,0,LogisticRegression
+11,Coughing of Blood,0.265,0,1,0,LogisticRegression
+12,Fatigue,0.31,0,1,0,LogisticRegression
+13,Shortness of Breath,0.245,0,1,0,LogisticRegression
+14,Frequent Cold,0.32,0,1,0,LogisticRegression
+15,Air Pollution,0.32,1,1,0,LogisticRegression
+16,Alcohol use,0.21,1,1,0,LogisticRegression
+17,Dust Allergy,0.455,1,1,0,LogisticRegression
+18,OccuPational Hazards,0.35,1,1,0,LogisticRegression
+19,Genetic Risk,0.405,1,1,0,LogisticRegression
+20,chronic Lung Disease,0.35,1,1,0,LogisticRegression
+21,Balanced Diet,0.315,1,1,0,LogisticRegression
+22,Obesity,0.425,1,1,0,LogisticRegression
+23,Smoking,0.21,1,1,0,LogisticRegression
+24,Passive Smoker,0.39,1,1,0,LogisticRegression
+25,Chest Pain,0.325,1,1,0,LogisticRegression
+26,Coughing of Blood,0.285,1,1,0,LogisticRegression
+27,Fatigue,0.335,1,1,0,LogisticRegression
+28,Shortness of Breath,0.25,1,1,0,LogisticRegression
+29,Frequent Cold,0.325,1,1,0,LogisticRegression
+30,Air Pollution,0.38,0,0,0,LogisticRegression
+31,Alcohol use,0.275,0,0,0,LogisticRegression
+32,Dust Allergy,0.435,0,0,0,LogisticRegression
+33,OccuPational Hazards,0.405,0,0,0,LogisticRegression
+34,Genetic Risk,0.425,0,0,0,LogisticRegression
+35,chronic Lung Disease,0.39,0,0,0,LogisticRegression
+36,Balanced Diet,0.445,0,0,0,LogisticRegression
+37,Obesity,0.425,0,0,0,LogisticRegression
+38,Smoking,0.195,0,0,0,LogisticRegression
+39,Passive Smoker,0.475,0,0,0,LogisticRegression
+40,Chest Pain,0.335,0,0,0,LogisticRegression
+41,Coughing of Blood,0.23,0,0,0,LogisticRegression
+42,Fatigue,0.275,0,0,0,LogisticRegression
+43,Shortness of Breath,0.22,0,0,0,LogisticRegression
+44,Frequent Cold,0.225,0,0,0,LogisticRegression
+45,Air Pollution,0.37,1,0,0,LogisticRegression
+46,Alcohol use,0.225,1,0,0,LogisticRegression
+47,Dust Allergy,0.465,1,0,0,LogisticRegression
+48,OccuPational Hazards,0.405,1,0,0,LogisticRegression
+49,Genetic Risk,0.425,1,0,0,LogisticRegression
+50,chronic Lung Disease,0.39,1,0,0,LogisticRegression
+51,Balanced Diet,0.355,1,0,0,LogisticRegression
+52,Obesity,0.435,1,0,0,LogisticRegression
+53,Smoking,0.215,1,0,0,LogisticRegression
+54,Passive Smoker,0.44,1,0,0,LogisticRegression
+55,Chest Pain,0.32,1,0,0,LogisticRegression
+56,Coughing of Blood,0.255,1,0,0,LogisticRegression
+57,Fatigue,0.265,1,0,0,LogisticRegression
+58,Shortness of Breath,0.255,1,0,0,LogisticRegression
+59,Frequent Cold,0.25,1,0,0,LogisticRegression
+60,Alcohol use,0.17,0,1,1,LogisticRegression
+61,Dust Allergy,0.385,0,1,1,LogisticRegression
+62,Balanced Diet,0.315,0,1,1,LogisticRegression
+63,Obesity,0.41,0,1,1,LogisticRegression
+64,Coughing of Blood,0.245,0,1,1,LogisticRegression
+65,Alcohol use,0.11,1,1,1,LogisticRegression
+66,Dust Allergy,0.385,1,1,1,LogisticRegression
+67,Balanced Diet,0.315,1,1,1,LogisticRegression
+68,Obesity,0.415,1,1,1,LogisticRegression
+69,Coughing of Blood,0.28,1,1,1,LogisticRegression
+70,Alcohol use,0.19,0,0,1,LogisticRegression
+71,Dust Allergy,0.43,0,0,1,LogisticRegression
+72,Balanced Diet,0.355,0,0,1,LogisticRegression
+73,Obesity,0.425,0,0,1,LogisticRegression
+74,Coughing of Blood,0.22,0,0,1,LogisticRegression
+75,Alcohol use,0.125,1,0,1,LogisticRegression
+76,Dust Allergy,0.43,1,0,1,LogisticRegression
+77,Balanced Diet,0.355,1,0,1,LogisticRegression
+78,Obesity,0.415,1,0,1,LogisticRegression
+79,Coughing of Blood,0.235,1,0,1,LogisticRegression

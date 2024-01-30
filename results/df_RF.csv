@@ -1,0 +1,177 @@
+,Attr,Value,Matrix,Train,Fit,Model
+0,Gender,0.58,0,1,perfect,RF
+1,Air Pollution,0.31,0,1,perfect,RF
+2,Alcohol use,0.385,0,1,perfect,RF
+3,Dust Allergy,0.385,0,1,perfect,RF
+4,OccuPational Hazards,0.34,0,1,perfect,RF
+5,Genetic Risk,0.3,0,1,perfect,RF
+6,chronic Lung Disease,0.285,0,1,perfect,RF
+7,Balanced Diet,0.355,0,1,perfect,RF
+8,Obesity,0.345,0,1,perfect,RF
+9,Smoking,0.25,0,1,perfect,RF
+10,Passive Smoker,0.27,0,1,perfect,RF
+11,Chest Pain,0.315,0,1,perfect,RF
+12,Coughing of Blood,0.36,0,1,perfect,RF
+13,Fatigue,0.285,0,1,perfect,RF
+14,Weight Loss,0.32,0,1,perfect,RF
+15,Shortness of Breath,0.215,0,1,perfect,RF
+16,Wheezing,0.375,0,1,perfect,RF
+17,Swallowing Difficulty,0.175,0,1,perfect,RF
+18,Clubbing of Finger Nails,0.27,0,1,perfect,RF
+19,Frequent Cold,0.235,0,1,perfect,RF
+20,Dry Cough,0.275,0,1,perfect,RF
+21,Snoring,0.265,0,1,perfect,RF
+22,Gender,0.58,1,1,perfect,RF
+23,Air Pollution,0.31,1,1,perfect,RF
+24,Alcohol use,0.21,1,1,perfect,RF
+25,Dust Allergy,0.385,1,1,perfect,RF
+26,OccuPational Hazards,0.34,1,1,perfect,RF
+27,Genetic Risk,0.3,1,1,perfect,RF
+28,chronic Lung Disease,0.285,1,1,perfect,RF
+29,Balanced Diet,0.315,1,1,perfect,RF
+30,Obesity,0.345,1,1,perfect,RF
+31,Smoking,0.205,1,1,perfect,RF
+32,Passive Smoker,0.24,1,1,perfect,RF
+33,Chest Pain,0.315,1,1,perfect,RF
+34,Coughing of Blood,0.195,1,1,perfect,RF
+35,Fatigue,0.26,1,1,perfect,RF
+36,Weight Loss,0.32,1,1,perfect,RF
+37,Shortness of Breath,0.215,1,1,perfect,RF
+38,Wheezing,0.27,1,1,perfect,RF
+39,Swallowing Difficulty,0.175,1,1,perfect,RF
+40,Clubbing of Finger Nails,0.26,1,1,perfect,RF
+41,Frequent Cold,0.235,1,1,perfect,RF
+42,Dry Cough,0.275,1,1,perfect,RF
+43,Snoring,0.265,1,1,perfect,RF
+44,Gender,0.625,0,0,perfect,RF
+45,Air Pollution,0.365,0,0,perfect,RF
+46,Alcohol use,0.425,0,0,perfect,RF
+47,Dust Allergy,0.43,0,0,perfect,RF
+48,OccuPational Hazards,0.4,0,0,perfect,RF
+49,Genetic Risk,0.345,0,0,perfect,RF
+50,chronic Lung Disease,0.345,0,0,perfect,RF
+51,Balanced Diet,0.395,0,0,perfect,RF
+52,Obesity,0.39,0,0,perfect,RF
+53,Smoking,0.285,0,0,perfect,RF
+54,Passive Smoker,0.325,0,0,perfect,RF
+55,Chest Pain,0.315,0,0,perfect,RF
+56,Coughing of Blood,0.36,0,0,perfect,RF
+57,Fatigue,0.19,0,0,perfect,RF
+58,Weight Loss,0.26,0,0,perfect,RF
+59,Shortness of Breath,0.23,0,0,perfect,RF
+60,Wheezing,0.325,0,0,perfect,RF
+61,Swallowing Difficulty,0.185,0,0,perfect,RF
+62,Clubbing of Finger Nails,0.245,0,0,perfect,RF
+63,Frequent Cold,0.185,0,0,perfect,RF
+64,Dry Cough,0.24,0,0,perfect,RF
+65,Snoring,0.275,0,0,perfect,RF
+66,Gender,0.625,1,0,perfect,RF
+67,Air Pollution,0.365,1,0,perfect,RF
+68,Alcohol use,0.225,1,0,perfect,RF
+69,Dust Allergy,0.43,1,0,perfect,RF
+70,OccuPational Hazards,0.4,1,0,perfect,RF
+71,Genetic Risk,0.345,1,0,perfect,RF
+72,chronic Lung Disease,0.345,1,0,perfect,RF
+73,Balanced Diet,0.355,1,0,perfect,RF
+74,Obesity,0.39,1,0,perfect,RF
+75,Smoking,0.235,1,0,perfect,RF
+76,Passive Smoker,0.305,1,0,perfect,RF
+77,Chest Pain,0.315,1,0,perfect,RF
+78,Coughing of Blood,0.2,1,0,perfect,RF
+79,Fatigue,0.17,1,0,perfect,RF
+80,Weight Loss,0.26,1,0,perfect,RF
+81,Shortness of Breath,0.23,1,0,perfect,RF
+82,Wheezing,0.21,1,0,perfect,RF
+83,Swallowing Difficulty,0.185,1,0,perfect,RF
+84,Clubbing of Finger Nails,0.24,1,0,perfect,RF
+85,Frequent Cold,0.185,1,0,perfect,RF
+86,Dry Cough,0.24,1,0,perfect,RF
+87,Snoring,0.275,1,0,perfect,RF
+88,Gender,0.58,0,1,under,RF
+89,Air Pollution,0.31,0,1,under,RF
+90,Alcohol use,0.36,0,1,under,RF
+91,Dust Allergy,0.385,0,1,under,RF
+92,OccuPational Hazards,0.34,0,1,under,RF
+93,Genetic Risk,0.3,0,1,under,RF
+94,chronic Lung Disease,0.285,0,1,under,RF
+95,Balanced Diet,0.3,0,1,under,RF
+96,Obesity,0.345,0,1,under,RF
+97,Smoking,0.215,0,1,under,RF
+98,Passive Smoker,0.24,0,1,under,RF
+99,Chest Pain,0.315,0,1,under,RF
+100,Coughing of Blood,0.32,0,1,under,RF
+101,Fatigue,0.26,0,1,under,RF
+102,Weight Loss,0.32,0,1,under,RF
+103,Shortness of Breath,0.215,0,1,under,RF
+104,Wheezing,0.27,0,1,under,RF
+105,Swallowing Difficulty,0.175,0,1,under,RF
+106,Clubbing of Finger Nails,0.26,0,1,under,RF
+107,Frequent Cold,0.235,0,1,under,RF
+108,Dry Cough,0.275,0,1,under,RF
+109,Snoring,0.265,0,1,under,RF
+110,Gender,0.58,1,1,under,RF
+111,Air Pollution,0.31,1,1,under,RF
+112,Alcohol use,0.21,1,1,under,RF
+113,Dust Allergy,0.385,1,1,under,RF
+114,OccuPational Hazards,0.34,1,1,under,RF
+115,Genetic Risk,0.3,1,1,under,RF
+116,chronic Lung Disease,0.285,1,1,under,RF
+117,Balanced Diet,0.315,1,1,under,RF
+118,Obesity,0.345,1,1,under,RF
+119,Smoking,0.205,1,1,under,RF
+120,Passive Smoker,0.24,1,1,under,RF
+121,Chest Pain,0.315,1,1,under,RF
+122,Coughing of Blood,0.195,1,1,under,RF
+123,Fatigue,0.26,1,1,under,RF
+124,Weight Loss,0.32,1,1,under,RF
+125,Shortness of Breath,0.215,1,1,under,RF
+126,Wheezing,0.27,1,1,under,RF
+127,Swallowing Difficulty,0.175,1,1,under,RF
+128,Clubbing of Finger Nails,0.26,1,1,under,RF
+129,Frequent Cold,0.235,1,1,under,RF
+130,Dry Cough,0.275,1,1,under,RF
+131,Snoring,0.265,1,1,under,RF
+132,Gender,0.625,0,0,under,RF
+133,Air Pollution,0.365,0,0,under,RF
+134,Alcohol use,0.385,0,0,under,RF
+135,Dust Allergy,0.43,0,0,under,RF
+136,OccuPational Hazards,0.4,0,0,under,RF
+137,Genetic Risk,0.345,0,0,under,RF
+138,chronic Lung Disease,0.345,0,0,under,RF
+139,Balanced Diet,0.345,0,0,under,RF
+140,Obesity,0.39,0,0,under,RF
+141,Smoking,0.26,0,0,under,RF
+142,Passive Smoker,0.305,0,0,under,RF
+143,Chest Pain,0.315,0,0,under,RF
+144,Coughing of Blood,0.33,0,0,under,RF
+145,Fatigue,0.17,0,0,under,RF
+146,Weight Loss,0.26,0,0,under,RF
+147,Shortness of Breath,0.23,0,0,under,RF
+148,Wheezing,0.21,0,0,under,RF
+149,Swallowing Difficulty,0.185,0,0,under,RF
+150,Clubbing of Finger Nails,0.24,0,0,under,RF
+151,Frequent Cold,0.185,0,0,under,RF
+152,Dry Cough,0.24,0,0,under,RF
+153,Snoring,0.275,0,0,under,RF
+154,Gender,0.625,1,0,under,RF
+155,Air Pollution,0.365,1,0,under,RF
+156,Alcohol use,0.225,1,0,under,RF
+157,Dust Allergy,0.43,1,0,under,RF
+158,OccuPational Hazards,0.4,1,0,under,RF
+159,Genetic Risk,0.345,1,0,under,RF
+160,chronic Lung Disease,0.345,1,0,under,RF
+161,Balanced Diet,0.355,1,0,under,RF
+162,Obesity,0.39,1,0,under,RF
+163,Smoking,0.235,1,0,under,RF
+164,Passive Smoker,0.305,1,0,under,RF
+165,Chest Pain,0.315,1,0,under,RF
+166,Coughing of Blood,0.2,1,0,under,RF
+167,Fatigue,0.17,1,0,under,RF
+168,Weight Loss,0.26,1,0,under,RF
+169,Shortness of Breath,0.23,1,0,under,RF
+170,Wheezing,0.21,1,0,under,RF
+171,Swallowing Difficulty,0.185,1,0,under,RF
+172,Clubbing of Finger Nails,0.24,1,0,under,RF
+173,Frequent Cold,0.185,1,0,under,RF
+174,Dry Cough,0.24,1,0,under,RF
+175,Snoring,0.275,1,0,under,RF
