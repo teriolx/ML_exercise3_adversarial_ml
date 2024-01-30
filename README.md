@@ -1,6 +1,6 @@
 # Exercise3: Adversarial ML
 
-This project contains experiments in Adversarial ML, particularly Attribute Inference (disclosure) from ML Models as part of the exercise in the Machine Learning course.
+This project contains experiments in Adversarial ML, particularly Attribute Inference (disclosure) from ML Models as part of Exercise 3 in the ML course.
 
 ## Requirements
 
@@ -9,17 +9,21 @@ This project contains experiments in Adversarial ML, particularly Attribute Infe
 
 ## Structure
 
-* `data/` contains the datasets used in the experiments
-* `infer_attribute.ipynb` contains the functions to perform attribute inference from ML models
-* `*.ipynb` jupyter notebooks with the experiments  
-
+* `data/` contains the dataset used in the experiments
+* `attribute_inference.ipynb` jupyter notebooks with the experiments and functions to perform attribute inference
 
 ## Usage
 
-The project can be run by creating a venv using poetry: 
+The project can be run by creating a venv using poetry
+
+```
+poetry install
+```
+
+and then running
 
 ```
 poetry run jupyter notebook 
 ```
 
-Once the venv is created, the notebooks can be run for example in VS code by selecting the venv as the kernel or by opening the notebook in the browser once the kernel is running.
+withing the venv. The notebook can be run for example in VS code by selecting the venv as the kernel or by opening the notebook in the browser once the jupyter kernel is running.
